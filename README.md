@@ -15,9 +15,21 @@ This code pre-processes the Iris dataset and applies these six classification al
 
 ## Usage
 
-1. Make sure you have the Iris dataset (usually available as 'iris.csv') in your working directory.
-2. Run the code, and it will load the dataset, preprocess it, and then apply the mentioned algorithms.
-3. The code will print the confusion matrices for each algorithm, allowing you to evaluate their performance.
+1. Clone or download this project to your local machine.
+2. Ensure you have Python installed.
+3. Install the necessary libraries by running `pip install pandas scikit-learn`.
+4. Choose one of the provided classification scripts based on the machine learning algorithm you want to use:
+   - `logistic_regression.py`
+   - `knn_classifier.py`
+   - `support_vector_classifier.py`
+   - `gaussian_naive_bayes.py`
+   - `decision_tree_classifier.py`
+   - `random_forest_classifier.py`
+5. Run the selected script.
+6. The script will preprocess the Iris dataset and apply the chosen classification algorithm to predict the species of Iris flowers.
+7. The results and evaluation metrics will be displayed, allowing you to assess the performance of the selected algorithm.
+
+Feel free to adjust the code to meet your specific requirements and preferences.
 
 ## Dependencies
 
