@@ -21,8 +21,9 @@ This code pre-processes the Iris dataset and applies these six classification al
 
 ## Dependencies
 
-- Python
-- Pandas
-- Scikit-Learn
+- [Python](https://www.python.org/): The programming language used for this project.
+- [Pandas](https://pandas.pydata.org/): A powerful data manipulation and analysis library.
+- [Scikit-Learn](https://scikit-learn.org/stable/): A machine learning library for Python.
 
 Feel free to adjust the code to meet your specific requirements and preferences.
+
