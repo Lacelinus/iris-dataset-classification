@@ -44,4 +44,4 @@ Feel free to adjust the code to meet your specific requirements and preferences.
 
 ## Author
 
-This project was created by [Your Name]. You can reach out to me at [Your Email Address] for any questions or suggestions.
+This project was created by Lacelinus. You can reach out to me at ekremkprn2@gmail.com for any questions or suggestions.
