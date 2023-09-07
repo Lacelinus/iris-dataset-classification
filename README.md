@@ -44,6 +44,6 @@ Feel free to customize the code by adjusting hyperparameters, trying different a
 
 **Author**
 
-This script was created by [Your Name]. You can reach out to me at [Your Email] for any questions or suggestions.
+This script was created by Lacelinus. You can reach out to me at ekremkprn2@gmail.com for any questions or suggestions.
 
 Enjoy exploring machine learning with the Iris dataset!
